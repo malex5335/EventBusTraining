@@ -1,0 +1,6 @@
+rootProject.name = 'EventBusTraining'
+include 'StudentClient'
+include 'TeacherClient'
+include 'RoomClient'
+include 'LehrplanClient'
+
